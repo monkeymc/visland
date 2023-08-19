@@ -514,7 +514,6 @@
 ]
 ```
 # Mithril
-## Credit: Rinnette
 ```
 [
   [
