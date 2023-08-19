@@ -1,3 +1,7 @@
+# REPO
+
+`https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json`
+
 # SEA
 
 ```
