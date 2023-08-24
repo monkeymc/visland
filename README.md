@@ -2,13 +2,13 @@
 - [Repo](https://github.com/monkeymc/visland/blob/main/README.md#repo)
 - [Mountain](https://github.com/monkeymc/visland/blob/main/README.md#mountain)
 - [Sea](https://github.com/monkeymc/visland/blob/main/README.md#sea)
-- [Sap](https://github.com/monkeymc/visland/blob/main/README.md#ssap)
+- [Sap](https://github.com/monkeymc/visland/blob/main/README.md#sap)
 - [Hemp](https://github.com/monkeymc/visland/blob/main/README.md#hemp)
 - [Cotton](https://github.com/monkeymc/visland/blob/main/README.md#cotton)
 - [Mithril](https://github.com/monkeymc/visland/blob/main/README.md#mithril)
 - [Cave](https://github.com/monkeymc/visland/blob/main/README.md#cave)
 - [Sugar](https://github.com/monkeymc/visland/blob/main/README.md#sugar)
-# REPO
+# Repo
 `https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json`
 # Mountain
 ```
@@ -114,7 +114,7 @@
   ]
 ]
 ```
-# SEA
+# Sea
 ```
 [
   [
@@ -254,7 +254,7 @@
   ]
 ]
 ```
-# SAP
+# Sap
 ```
 [
   [
@@ -787,7 +787,7 @@
   ]
 ]
 ```
-# CAVE
+# Cave
 ```
 [
   [
@@ -927,7 +927,7 @@
   ]
 ]
 ```
-# SUGAR
+# Sugar
 ```
 [
   [
