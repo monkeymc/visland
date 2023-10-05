@@ -1,7 +1,7 @@
 # INDEX
 - [Repo](https://github.com/monkeymc/visland/blob/main/README.md#repo)
 - [Mountain](https://github.com/monkeymc/visland/blob/main/README.md#mountain)
-- [Cave](https://github.com/monkeymc/visland/blob/main/README.md#cave)
+- [Cave II](https://github.com/monkeymc/visland/blob/main/README.md#cave)
 - [Sea](https://github.com/monkeymc/visland/blob/main/README.md#sea)
 - [Sap](https://github.com/monkeymc/visland/blob/main/README.md#sap)
 - [Hemp](https://github.com/monkeymc/visland/blob/main/README.md#hemp)
@@ -115,7 +115,7 @@
   ]
 ]
 ```
-# Cave
+# Cave II
 ```
 [[266.5627,52.95905,-129.8931,2.0,"yellowish rock",0,2012985],[244.4501,52.98687,-130.5405,2.0,"yellowish rock",0,2012985],[250.4352,52.98743,-141.5751,2.0,"yellowish rock",0,2012985],[284.983,52.99493,-139.6358,2.0,"yellowish rock",0,2012985],[299.0002,53.0,-136.7983,2.0,"island crystal cluster",0,2012985],[306.9742,52.94808,-142.0078,2.0,"yellowish rock",0,2012985],[314.7838,52.99999,-134.7108,2.0,"yellowish rock",0,2012985],[294.8877,53.0,-122.6879,2.0,"island crystal cluster",0,2012985],[280.6038,52.9947,-126.049,2.0,"island crystal cluster",0,2012985],[271.2572,52.97828,-121.3925,2.0,"yellowish rock",0,2012985],[256.9078,52.99207,-112.6788,2.0,"island crystal cluster",0,2012985]]
 ```
