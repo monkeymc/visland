@@ -1,6 +1,7 @@
 # INDEX
 - [Repo](https://github.com/monkeymc/visland/blob/main/README.md#repo)
 - [Mountain](https://github.com/monkeymc/visland/blob/main/README.md#mountain)
+- [Cave](https://github.com/monkeymc/visland/blob/main/README.md#cave)
 - [Sea](https://github.com/monkeymc/visland/blob/main/README.md#sea)
 - [Sap](https://github.com/monkeymc/visland/blob/main/README.md#sap)
 - [Hemp](https://github.com/monkeymc/visland/blob/main/README.md#hemp)
